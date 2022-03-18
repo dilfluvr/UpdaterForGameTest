@@ -1,3 +1,4 @@
+
 <Version: 1.00.01>
 data/test.png https://raw.githubusercontent.com/dilfluvr/UpdaterForGameTest/main/3CC260C2-9F79-451C-AD1F-10B53FE65EBB.png
 <End of Version>
