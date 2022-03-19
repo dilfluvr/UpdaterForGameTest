@@ -1,5 +1,5 @@
 
-<Version: 1.04>
+<Version: 1.05>
 data/test.png https://raw.githubusercontent.com/dilfluvr/UpdaterForGameTest/main/3CC260C2-9F79-451C-AD1F-10B53FE65EBB.png
 data/test.png https://raw.githubusercontent.com/dilfluvr/UpdaterForGameTest/main/54D2B5F5-04D8-460D-B454-82DDB0245162.png
 data/test.png https://raw.githubusercontent.com/dilfluvr/UpdaterForGameTest/main/R.png
